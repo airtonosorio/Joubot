@@ -1,0 +1,10 @@
+com\joubot\bot\JoubotBot.class
+com\joubot\collector\JobCollector.class
+com\joubot\collector\MultiSiteCollector.class
+com\joubot\config\ConfigManager.class
+com\joubot\filter\JobFilter.class
+com\joubot\model\Job.class
+com\joubot\MultiSiteCollector.class
+com\joubot\collector\ProgramathorCollector.class
+com\joubot\Main.class
+com\joubot\VagasComCollector.class
